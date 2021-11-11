@@ -36,6 +36,36 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "title": "asd",
+      "ingredients": [
+        "asd"
+      ],
+      "method": "asd",
+      "cookingTime": "1 minutes",
+      "id": "hqAHA-F"
+    },
+    {
+      "title": "Ginataang Langka",
+      "ingredients": [
+        "ahos",
+        "gata",
+        "tanglad"
+      ],
+      "method": "Blahhh......Blahhh...",
+      "cookingTime": "45 minutes",
+      "id": "AVCJM6z"
+    },
+    {
+      "title": "Nilagang Isda",
+      "ingredients": [
+        "fish",
+        "salt"
+      ],
+      "method": "blah...........",
+      "cookingTime": "25 minutes",
+      "id": "KnYVMVH"
     }
   ]
 }
